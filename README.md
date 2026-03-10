@@ -47,13 +47,6 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mish4ry&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=ff6eb4&text_color=ffffff&border_color=00b4d8&hide_border=false" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mish4ry&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&border_color=00b4d8" />
-
-</div>
-
-<div align="center">
-
 ![Streak](https://streak-stats.demolab.com?user=Mish4ry&theme=tokyonight&background=0D1117&ring=00b4d8&fire=ff6eb4&currStreakLabel=ffffff&border=00b4d8)
 
 </div>
