@@ -7,7 +7,7 @@
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/v.Mishary-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@v.Mishary)
-[![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh)
+[![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/37847660)
 ![Location](https://img.shields.io/badge/Belgium-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
