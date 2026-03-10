@@ -35,32 +35,6 @@
 <tr>
 <td width="50%">
 
-### 🏐 [KOYA](https://github.com/Mish4ry/koya)
-> *Volleyball social network web app*
-
-A full social platform built for the volleyball community — clubs, messaging, profiles. Clean CSS architecture, unified sidebar, real chat content.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%">
-
-### 🎮 [Mora_Watcher](https://github.com/Mish4ry/mora-watcher)
-> *osu! replay & beatmap manager*
-
-PyQt6 desktop app to manage osu! replays and beatmap backgrounds. JSON config in AppData, smart folder handling.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 ## ✦ Stack
 
 <div align="center">
