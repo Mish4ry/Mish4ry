@@ -8,7 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/v.Mishary-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@v.Mishary)
 [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh)
-![Location](https://img.shields.io/badge/Rochefort%2C%20Belgium-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/%2C%20Belgium-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
