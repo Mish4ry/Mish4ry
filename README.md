@@ -57,6 +57,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,50:00b4d8,100:1a1a2e&height=100&section=footer" />
 
-*「 circles don't click themselves 」*
+*「 the circles do not click on themselves 」*
 
 </div>
