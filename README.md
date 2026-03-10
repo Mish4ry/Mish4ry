@@ -29,12 +29,6 @@
 
 ---
 
-## ✦ Projects
-
-<table>
-<tr>
-<td width="50%">
-
 ## ✦ Stack
 
 <div align="center">
