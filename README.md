@@ -110,6 +110,4 @@ A selected project from this GitHub profile.<br/>
   </picture>
 </p>
 
-<a href="https://github.com/mish4ry">GitHub</a>
-
 <p align="center"><sub>Mishary · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
