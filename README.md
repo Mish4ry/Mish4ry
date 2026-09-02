@@ -110,4 +110,4 @@ A selected project from this GitHub profile.<br/>
   </picture>
 </p>
 
-<p align="center"><sub>Mishary · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Alexandra Trusova · Winnig is first place, everythings else is losing</sub></p>
