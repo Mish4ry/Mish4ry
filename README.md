@@ -1,96 +1,37 @@
-## Learning log
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4">
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4">
-    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4" alt="mish4ry hero visual" />
+    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4" alt="Mishary hero visual" />
   </picture>
 </p>
 
-**Mishary** · Frontend or full-stack engineer
+<p align="center">
+  <strong>Frontend & Software Explorer</strong> · Based in Belgium 🇧🇪
+  <br>
+  <em>Building aesthetic, focused software and learning in public.</em>
+</p>
 
-## Currently learning
+---
 
-> Building useful things and learning in public.
+### 🛠️ Stack & Technologies
 
-**Learning next**
+![Tech Stack](https://skillicons.dev/icons?i=python,js,html,css,linux,git,vscode,bash&theme=dark)
 
-- HTML
-- CSS
-- Python
+---
 
-📍 Based in **Belgium** · 👥 **1** followers · **2** following
+### 📌 Featured Projects
 
-## Tools I’m practicing
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[Zima](https://github.com/Mish4ry/Zima.)** | Plateforme web dédiée à l'élégance du patinage artistique. | `HTML` `CSS` `JS` |
+| **[Wither-Bloom](https://github.com/Mish4ry/Wither-Bloom)** | *Heirs of Nowhere* — Jeu de plateforme narratif 2D. | `GDScript` `Godot` |
+| **[OSU-Watcher](https://github.com/Mish4ry/OSU-Watcher)** | Gestionnaire d'assets et suivi de replays pour osu!. | `Python` `PyQt` |
+| **[Dashboard-public](https://github.com/Mish4ry/Dashboard-public)** | Interface de tableau de bord moderne et modulable. | `JavaScript` `CSS` |
 
-- **HTML** · 50%
-- **CSS** · 31%
-- **Python** · 13%
-- **JavaScript** · 5%
-- **Batchfile** · 0%
+---
 
-## Projects in progress
-
-<details>
-<summary><b>Mish4ry</b> · open source</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/Mish4ry)
-</details>
-
-<details>
-<summary><b>Dashboard-public</b> · JavaScript</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/Dashboard-public)
-</details>
-
-<details>
-<summary><b>Zima.Hub</b> · CSS</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/Zima.Hub)
-</details>
-
-<details>
-<summary><b>Wither-Bloom</b> · open source</summary>
-
-Heirs of Nowhere<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/Wither-Bloom)
-</details>
-
-<details>
-<summary><b>Zima.</b> · CSS</summary>
-
-Where passion becomes elegance.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/Zima.)
-</details>
-
-<details>
-<summary><b>OSU-Watcher</b> · Python</summary>
-
-A selected project from this GitHub profile.<br/>
-⭐ 0 · 🍴 0
-
-[View repository](https://github.com/Mish4ry/OSU-Watcher)
-</details>
-
-## Progress so far
-
-- **Current streak:** 0 days
-- **Longest streak:** 8 days
-- **Active days:** 47 days
+### 📊 Progress & Activity
 
 <p align="center">
   <picture>
@@ -100,7 +41,9 @@ A selected project from this GitHub profile.<br/>
   </picture>
 </p>
 
-## Say hello
+---
+
+### 💬 Connect
 
 <p align="center">
   <picture>
@@ -110,4 +53,4 @@ A selected project from this GitHub profile.<br/>
   </picture>
 </p>
 
-<p align="center"><sub>Alexandra Trusova · Winnig is first place, everythings else is losing</sub></p>
+<p align="center"><sub>Alexandra Trusova · "Winning is first place, everything else is losing."</sub></p>
