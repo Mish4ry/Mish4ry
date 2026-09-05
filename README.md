@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4">
-    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F264540541%3Fu%3Df07615f88fb5458394c50e90ab0fb5a4cd351114%26v%3D4" alt="Mishary hero visual" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4">
+    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4" alt="Mishary hero visual" />
   </picture>
 </p>
 
