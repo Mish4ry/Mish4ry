@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4">
-    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fnew-mish4ry-v2.png%26v%3D4" alt="Mishary hero visual" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=dark&avatar=https%3A%2F%2Fgithub.com%2FMish4ry.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Fgithub.com%2FMish4ry.png">
+    <img src="https://www.gitskins.com/api/section/hero?username=mish4ry&theme=zen&avatar=https%3A%2F%2Fgithub.com%2FMish4ry.png" alt="Mishary hero visual" />
   </picture>
 </p>
 
