@@ -1,7 +1,8 @@
 ### `~ $ whoami`
 
 ```text
-mishary — open-source maintainer
+mishary — cs student & developer
+focus       cybersecurity, linux, web
 location    belgium
 ```
 
