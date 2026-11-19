@@ -9,14 +9,9 @@ location    belgium
 ### `~ $ ls projects --sort=stars`
 
 <table>
-<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<thead><tr><th align="left">Project</th><th align="left">About</th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://github.com/Mish4ry/mish4ry.github.io">mish4ry.github.io</a></td><td align="left">Misha | CS Student - Cybersecurity &amp; Web Development</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Mish4ry/skills-github-pages">skills-github-pages</a></td><td align="left">Exercise: Create a site or blog from your GitHub repositories with GitHub Pages</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Mish4ry/skills-communicate-using-markdown">skills-communicate-using-markdown</a></td><td align="left">Exercise: Communicate using Markdown</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Mish4ry/Mish4ry">Mish4ry</a></td><td align="left">—</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Mish4ry/skills-introduction-to-github">skills-introduction-to-github</a></td><td align="left">Exercise: Introduction to GitHub</td><td align="right">0</td></tr>
-</tbody>
+<tr><td align="left"><a href="https://github.com/Mish4ry/mish4ry.github.io">mish4ry.github.io</a></td><td align="left">Misha | CS Student - Cybersecurity &amp; Web Development Portfolio</td></tr>
 </table>
 
 ### `~ $ cat stack.txt`
