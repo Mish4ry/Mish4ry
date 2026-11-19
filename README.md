@@ -1,5 +1,3 @@
-### `~ $ cat banner.svg`
-
 ### `~ $ whoami`
 
 ```text
