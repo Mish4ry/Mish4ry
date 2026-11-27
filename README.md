@@ -1,7 +1,7 @@
 ### `~ $ whoami`
 
 ```text
-mishary — cs student
+mishary     cs student
 focus       cybersecurity, linux, web
 location    belgium
 ```
